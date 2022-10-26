@@ -1,0 +1,49 @@
+body {
+    background-color: skyblue;
+    letter-spacing: 9;
+    color: whitesmoke;
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera,
+#result {
+    border: 2px dashed black;
+    width: 400px;
+    height: 300px;
+}
+
+#maskName {
+    color: black;
+}
+
+.maskName {
+    font-size: 40px;
+}
+
+.emoji {
+    font-size: 48px;
+}
+
+.heading {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+#intro {
+    color: chocolate;
+}
+
+.head {
+    background-color: white;
+    color: blue;
+    border-radius: 50px;
+    width: 700px;
+}
+
+.pred {
+    padding-left: 50px;
+}
